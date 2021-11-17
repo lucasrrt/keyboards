@@ -77,7 +77,7 @@
       "KC_LBRC",
       "KC_RBRC",
       "KC_NO",
-      "KC_LALT",
+      "SGUI(KC_M)",
       "LCTL_T(KC_ESC)",
       "KC_PGUP",
       "KC_PGDN",
